@@ -89,3 +89,74 @@ Less efficient for automation and repetitive tasks.
 CLI = Talking to the computer in its own language (commands).
 
 GUI = Pointing and clicking to tell the computer what you want.
+
+---Why We Need to Use Linux Commands
+
+1. Servers don’t have GUI (mostly)
+
+Cloud servers (AWS, GCP, Azure), production servers, or remote systems usually run Linux without any desktop interface.
+
+The only way to work with them is through commands in the terminal (via SSH).
+
+2. Automation & Scripting
+
+Repeating tasks manually wastes time.
+
+With commands + shell scripting, you can automate tasks like:
+
+Taking backups
+
+Cleaning logs
+
+Deploying apps
+
+Scheduling jobs with cron
+
+Faster & More Efficient
+
+3. Commands are often faster than clicking through menus.
+
+Example:
+
+find /var/log -name "*.log" -size +10M
+
+
+👉 This finds all log files bigger than 10MB in one go. Doing this with GUI = time consuming.
+
+4. Power & Flexibility
+
+You can combine commands using pipes (|) and redirection.
+
+Example:
+
+ps aux | grep python > process_list.txt
+
+
+Finds all running Python processes and saves them into a file.
+
+5. More Control Over the System
+
+Linux commands let you control things Windows GUI doesn’t easily allow:
+
+Changing permissions (chmod, chown)
+
+Managing processes (kill, top)
+
+Monitoring network (netstat, ping, ifconfig)
+
+6. Universal Language for Tech
+
+In DevOps, Data Engineering, Cybersecurity, Cloud, AI/ML, Linux commands are a common skill.
+
+If you know Linux CLI, you can work on almost any system.
+
+7. Lightweight & Remote Friendly
+
+Using commands requires almost no system resources.
+
+Perfect for working on low-power servers or remote connections where GUI is too heavy.
+
+---Quick Analogy
+
+Think of GUI = driving an automatic car (easy, but limited control).
+Think of Linux CLI = driving a manual car (harder at first, but full control).
