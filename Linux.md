@@ -28,7 +28,7 @@ Linux operating system:
 - Linux offers efficient performance and strong security.
 - It works well across many devices and industries.
 
-CLI (Command-Line Interface)
+---CLI (Command-Line Interface)
 
 What it is: A text-based interface where you type commands.
 
@@ -42,7 +42,7 @@ cd /home → change directory
 
 rm file.txt → remove a file
 
-Pros:
+-Pros:
 
 Very powerful and precise.
 
@@ -50,13 +50,13 @@ Uses fewer system resources (lightweight).
 
 Can be automated with scripts.
 
-Cons:
+-Cons:
 
 Steeper learning curve.
 
 You need to remember commands and syntax.
 
-GUI (Graphical User Interface)
+---GUI (Graphical User Interface)
 
 What it is: A visual interface with windows, icons, menus, and buttons.
 
@@ -70,7 +70,7 @@ Using Google Chrome browser instead of typing curl or wget.
 
 Managing files with drag-and-drop.
 
-Pros:
+-Pros:
 
 Easier for beginners.
 
@@ -78,13 +78,13 @@ Intuitive and user-friendly.
 
 Good for tasks that are visual (editing images, browsing).
 
-Cons:
+-Cons:
 
 Consumes more memory and CPU.
 
 Less efficient for automation and repetitive tasks.
 
-Simple Analogy
+---Simple Analogy
 
 CLI = Talking to the computer in its own language (commands).
 
