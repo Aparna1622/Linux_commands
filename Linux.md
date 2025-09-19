@@ -16,3 +16,14 @@ Different types of OS available:
 <img width="701" height="341" alt="image" src="https://github.com/user-attachments/assets/72891998-e648-4507-9332-137f0ab9a941" />
 
 
+Components of an Operating Systems:
+There are two basic components of an Operating System.
+- Shell is the outermost layer of the Operating System and it handles the interaction with the user. It interprets input for the OS and handles the output from the OS.
+- Kernel is the core component of operating system. The kernel is the primary interface between the Operating system and Hardware.
+
+Linux operating system:
+- Linux is free and open-source, accessible to everyone.
+- Its source code can be inspected and modified by anyone.
+- This promotes global collaboration and innovation.
+- Linux offers efficient performance and strong security.
+- It works well across many devices and industries.
